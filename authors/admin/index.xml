@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuzhuo Wu&#39;s Website</title>
+    <link>https://wuyzhuo.github.io/authors/admin/</link>
+      <atom:link href="https://wuyzhuo.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuzhuo Wu&#39;s Website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wuyzhuo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuzhuo Wu&#39;s Website</title>
+      <link>https://wuyzhuo.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>working paper</title>
+      <link>https://wuyzhuo.github.io/publication__/preprint/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://wuyzhuo.github.io/publication__/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Uncertainty Analysis of Nuclide Transport Breakthrough in DFN</title>
+      <link>https://wuyzhuo.github.io/post/simulation-and-uncertainty-analysis-of-nuclide-transport-breakthrough-in-dfn/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://wuyzhuo.github.io/post/simulation-and-uncertainty-analysis-of-nuclide-transport-breakthrough-in-dfn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;
+Understanding the transport of nuclides in fractured rocks is crucial for ensuring biosphere safety, as geological barriers serve as the final line of defense against nuclide transport. A discrete fracture network (DFN) model was constructed based on authentic data from the prototype repository at the Äspö Hard Rock Laboratory (HRL) in Sweden. The model was used to simulate nuclide transport using particle tracking methods and to investigate the spatio-temporal evolution following nuclide leakage. The DFN model has the advantage of providing detailed characterization of fractures, but it also imposes additional uncertainty. The Sobol variance-decomposition method is used to quantify the contribution of the fracture parameters to the uncertainty in the results of flow and transport distance. The results of this research can provide a scientific basis and technical support for the accurate modeling and prediction of the nuclides in geological barriers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;More Information&lt;/strong&gt; -  &lt;a href=&#34;https://drive.google.com/file/d/1SBLbv0CMobKq_6fWz2OSwrndd1tYwt27/view?usp=drive_link&#34;&gt;PDF&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A stochastic simulation model for nuclide transport breakthrough in DFN,  Eighth Symposium on Underground Disposal of Waste.China</title>
+      <link>https://wuyzhuo.github.io/publication__/conference-paper/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://wuyzhuo.github.io/publication__/conference-paper/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimental Study on the Time‑Dependent Gas Permeability of Fractures in Shales</title>
+      <link>https://wuyzhuo.github.io/post/time-dependent-gas-permeability-of-fractures-in-shales/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://wuyzhuo.github.io/post/time-dependent-gas-permeability-of-fractures-in-shales/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;
+The gas permeabilities of shale fractures provide a critical basis for deeply understanding the subsurface fluid flow processes. Experiments were designed to find out the time-dependent behavior of shale permeability under formation stress, which has been rarely reported. Two artificially fractured shale cores were used to experimentally investigate the time dependence of the fracture gas permeability and underlying mechanisms. Daily measurements of permeabilities were conducted at various gas pressures under multilevel confining stresses, where the confining stress was incrementally changed from 10 to 25 MPa and then reverted to 10 MPa. Numerical calculations were performed to determine the fracture apertures.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;More Information&lt;/strong&gt; -  &lt;a href=&#34;https://drive.google.com/file/d/1BMCgKOP8uTQvCjsVPe9gW20_NTJ1au4A/view?usp=drive_link&#34;&gt;PDF&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Existence of REV in Different Fractured Rocks Based on Permeability Analysis</title>
+      <link>https://wuyzhuo.github.io/post/existence-of-rev-in-different-fractured-rocks-based-on-permeability-analysis/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://wuyzhuo.github.io/post/existence-of-rev-in-different-fractured-rocks-based-on-permeability-analysis/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;
+Whether the hydraulic conductivity representative elementary volume (KREV) exists is a fundamental question for understanding the hydraulic behavior of fractured rock masses. The fracture density and size of rocks vary greatly, and are the two most important parameters affecting the existence of a REV. Based on The International Society for Rock Mechanics (ISRM) classification suggestions, the 3D DFNs of 35 representative rocks are established with the Monte Carlo method. The water flow in the DFNs is simulated with the finite difference method. The equivalent conductivities of each rock are calculated in 10 domain sizes and 21 different flow directions; and the optimum conductivity ellipsoid and the fitting errors of the equivalent directional conductivity vectors are analyzed to determine the existence and size of the REVs. A REV is more likely to exist in rock masses with a high fracture density and persistence. Under uniform fracture persistence, greater spacing reduces the likelihood of encountering a REV within fractured rock. Blockiness is a 3D indicator that can reflect the combined effects of persistence and density on the existence and size of the REV. The REV of a fractured rock mass exists when B ≥ 0.5%. The KREV does not exist when B &amp;lt; 0.1%. The existence of a KREV is uncertain when 0.1% &amp;lt; B &amp;lt; 0.5%, which requires further analysis based on the fit error of the conductivity ellipsoid and the variation in hydraulic conductivity with domain dimension.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;More Information&lt;/strong&gt; -  &lt;a href=&#34;https://drive.google.com/file/d/1fWNOz8sUVw5pnj6M9d8kXsb-VPq_p_yr/view?usp=drive_link&#34;&gt;PDF&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

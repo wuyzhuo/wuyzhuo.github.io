@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Yuzhuo Wu&#39;s Website</title>
+    <link>https://wuyzhuo.github.io/authors/</link>
+      <atom:link href="https://wuyzhuo.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wuyzhuo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://wuyzhuo.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://wuyzhuo.github.io/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://wuyzhuo.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Yuzhuo Wu is currently a second year Postgraduate&#39;s student in geology from China University of Geoscience. Her research seeks to understand fluids in fractured rocks and could be applied in deep geological disposal of radioactive waste and CCUS（Carbon Capture，Utilization and Storage).&lt;/p&gt;
+&lt;p&gt;Her Undergraduate’s thesis focused on existence of REV in different fractured rocks based on permeability analysis. She joined Greenhouse Gases and Hydrological Interaction Laboratory, where she studied CO2 seepage in a microfracture network and time-dependent gas permeability of fractures in shales via experiments.&lt;/p&gt;
+&lt;p&gt;She currently researches simulation and uncertainty analysis of nuclide transport breakthrough in DFN. She is interested in studying seepage in fractured rocks with high efficiencies by combining knowledge and techniques from geosciences and computers.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-download&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+Download my &lt;a href=&#34;files/cv.pdf&#34;&gt;Resume&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
